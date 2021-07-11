@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Judit.
+- 👋 Hi, I am Judit.
 - 👁️ I’m interested in Front-End Development.
 - 💻 I’m currently learning Vue.js.
 - 📫 My e-mail address: judita.csibova@gmail.com
